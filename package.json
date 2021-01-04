@@ -1,5 +1,5 @@
 {
-  "name": "@renoki-co/~package_name~",
+  "name": "~npm_package_name~",
   "version": "1.0.0",
   "description": "~package_description~",
   "keywords": [
@@ -8,11 +8,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/renoki-co/~package_name~.git"
+    "url": "https://github.com/renoki-co/~git_package_name~.git"
   },
   "author": "Alex Renoki",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/renoki-co/~package_name~.git",
+  "homepage": "https://github.com/renoki-co/~git_package_name~.git",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "engines": {

@@ -8,7 +8,7 @@ Package Name Here
 [![Total Downloads](https://img.shields.io/npm/dt/~npm_package_name~)](https://www.npmjs.com/package/~npm_package_name~)
 [![License](https://img.shields.io/npm/l/~npm_package_name~)](https://www.npmjs.com/package/~npm_package_name~)
 
-**Note:** Replace  ```~package_name~``` ```~npm_package_name~``` ```~package_description~``` ```~styleci_code~``` with their correct values in [README.md](README.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE](LICENSE) and [composer.json](composer.json) files, then delete this line.
+**Note:** Replace  ```~git_package_name~``` ```~npm_package_name~``` ```~package_description~``` ```~styleci_code~``` with their correct values in [README.md](README.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE](LICENSE) and [composer.json](composer.json) files, then delete this line.
 
 This is where your description should go. Try and limit it to a paragraph or two. Consider adding a small example.
 
@@ -25,13 +25,13 @@ If you are using your application in your day-to-day job, on presentation demos,
 You can install the package via composer:
 
 ```bash
-npm install ~package_name~
+npm install ~npm_package_name~
 ```
 
 ## 🙌 Usage
 
 ```js
-const package = require('~package_name~');
+const package = require('~npm_package_name~');
 
 //
 ```
