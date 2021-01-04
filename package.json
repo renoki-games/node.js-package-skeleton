@@ -1,5 +1,5 @@
 {
-  "name": "~package_name~",
+  "name": "@renoki-co/~package_name~",
   "version": "1.0.0",
   "description": "~package_description~",
   "keywords": [
