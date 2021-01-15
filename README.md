@@ -22,7 +22,7 @@ If you are using your application in your day-to-day job, on presentation demos,
 
 ## 🚀 Installation
 
-You can install the package via composer:
+You can install the package via npm:
 
 ```bash
 npm install ~npm_package_name~
