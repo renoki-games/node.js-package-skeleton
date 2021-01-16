@@ -4,7 +4,7 @@ Package Name Here
 ![CI](https://github.com/renoki-co/~git_package_name~/workflows/CI/badge.svg?branch=master)
 [![codecov](https://codecov.io/gh/renoki-co/~git_package_name~/branch/master/graph/badge.svg)](https://codecov.io/gh/renoki-co/~git_package_name~/branch/master)
 [![StyleCI](https://github.styleci.io/repos/~styleci_code~/shield?branch=master)](https://github.styleci.io/repos/~styleci_code~)
-[![Latest Stable Version](https://img.shields.io/github/package-json/v/renoki-co/~git_package_name~)](https://www.npmjs.com/package/~npm_package_name~)
+[![Latest Stable Version](https://img.shields.io/github/v/release/renoki-co/~git_package_name~)](https://www.npmjs.com/package/~npm_package_name~)
 [![Total Downloads](https://img.shields.io/npm/dt/~npm_package_name~)](https://www.npmjs.com/package/~npm_package_name~)
 [![License](https://img.shields.io/npm/l/~npm_package_name~)](https://www.npmjs.com/package/~npm_package_name~)
 
