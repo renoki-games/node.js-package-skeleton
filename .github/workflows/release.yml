@@ -19,7 +19,7 @@ jobs:
     name: Publish NPM
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v2.3.4
 
     - uses: actions/setup-node@v2.1.5
       name: Installing Node.js v14.x
